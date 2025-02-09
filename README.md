@@ -20,7 +20,6 @@ A **Netflix-inspired** frontend clone built using **HTML & CSS** for practicing 
 ---
 
 ## 📸 Demo
-[![Watch Demo](https://via.placeholder.com/800x400?text=Click+to+Watch+Demo)](https://streamable.com/rfgg9l)
 
 🔗 **[Click here to watch the demo](https://streamable.com/rfgg9l)**  
 
