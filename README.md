@@ -25,4 +25,4 @@ A **Netflix-inspired** frontend clone built using **HTML & CSS** for practicing 
 
 | **Home Page** |
 |--------------|
-| ![Netflix Clone]([https://via.placeholder.com/800x400?text=Netflix+Clone+S](https://streamable.com/rfgg9l)
+| ![Netflix Clone](https://streamable.com/rfgg9l)
