@@ -5,7 +5,6 @@ A **Netflix-inspired** frontend clone built using **HTML & CSS** for practicing 
 ---
 
 ## 🚀 Features
-
 ✔️ **Responsive UI** – Works on desktop & mobile screens  
 ✔️ **Hero Section** – Netflix-like subscription prompt  
 ✔️ **Multiple Sections** – Watch anywhere, offline downloads, kids' profile, etc.  
@@ -15,14 +14,14 @@ A **Netflix-inspired** frontend clone built using **HTML & CSS** for practicing 
 ---
 
 ## 🖥️ Tech Stack
-
 - **HTML** – Structuring the layout  
 - **CSS** – Styling the UI with Netflix-like aesthetics  
 
 ---
 
-## 📸 Screenshots
+## 📸 Demo
+[![Watch Demo](https://via.placeholder.com/800x400?text=Click+to+Watch+Demo)](https://streamable.com/rfgg9l)
 
-| **Home Page** |
-|--------------|
-| ![Netflix Clone](https://streamable.com/rfgg9l)
+🔗 **[Click here to watch the demo](https://streamable.com/rfgg9l)**  
+
+
